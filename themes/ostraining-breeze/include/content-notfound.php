@@ -1,0 +1,1 @@
+<div class="alert alert-warning aligncenter"><?php _e('No posts were found. Sorry!', 'ostraining-breeze'); ?></div>

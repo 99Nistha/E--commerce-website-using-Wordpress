@@ -1,0 +1,19 @@
+#mainmenu {
+    display:block;
+}
+.mobilemenu_wrapper{
+    display:none;
+    text-align: center;
+}
+.mobilemenu_wrapper .mobilemenu{
+    margin:10px auto;
+}
+
+@media (max-width: 979px) {
+    #mainmenu{
+        display:none;
+    }
+    .mobilemenu_wrapper{
+        display:block;
+    }
+}

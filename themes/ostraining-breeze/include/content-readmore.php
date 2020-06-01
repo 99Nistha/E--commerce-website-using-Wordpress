@@ -1,0 +1,1 @@
+<?php the_content( __('<i class="fa fa-chevron-right"> </i> Read More...', 'ostraining-breeze' ) ); ?>
